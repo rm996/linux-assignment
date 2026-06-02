@@ -42,3 +42,4 @@ cp branch
 rm branc
 cat branc
 clear branch
+git-init branch
