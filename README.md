@@ -40,4 +40,5 @@ mkdir branch
 touch branch
 cp branch
 rm branc
-cat branchh
+cat branc
+clear branch
