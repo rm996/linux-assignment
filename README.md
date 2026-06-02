@@ -47,3 +47,4 @@ git-status branch
 git-add branch
 git-commit branch
 git-branch branch
+git-checkout branch
