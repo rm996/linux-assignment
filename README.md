@@ -39,4 +39,5 @@ cd branch
 mkdir branch
 touch branch
 cp branch
-rm branch
+rm branc
+cat branchh
