@@ -1,4 +1,4 @@
-Linux and Git Cheat Sheet
+git branchLinux and Git Cheat Sheet
 
 pwd - shows current directory
 
@@ -33,4 +33,4 @@ git branch - shows branches
 git checkout - switches branches
 
 git merge - merges branches
-
+pwd branhh
