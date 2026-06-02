@@ -43,3 +43,4 @@ rm branc
 cat branc
 clear branch
 git-init branch
+git-status branch
