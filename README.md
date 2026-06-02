@@ -35,3 +35,4 @@ git checkout - switches branches
 git merge - merges branches
 pwd branch
 ls branch
+cd branch
