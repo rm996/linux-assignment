@@ -36,3 +36,4 @@ git merge - merges branches
 pwd branch
 ls branch
 cd branch
+mkdir branch
