@@ -33,4 +33,5 @@ git branch - shows branches
 git checkout - switches branches
 
 git merge - merges branches
-pwd branhh
+pwd branch
+ls branch
